@@ -1,6 +1,6 @@
-Coder: Zain Huda
-Student ID:001929695
-purpose: To go through the file the user inputs and then find the highest profit movie in that list.
+#Coder: Zain Huda
+#Student ID:001929695
+#purpose: To go through the file the user inputs and then find the highest profit movie in that list.
 
 import os
 import csv
